@@ -1,3 +1,0 @@
-com.telestream.player.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

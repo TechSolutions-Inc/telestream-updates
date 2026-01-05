@@ -1,7 +1,0 @@
-com.telestream.player.test.app-tracing-1.2.0-0 C:\Users\Mohamed Bentaoit\.gradle\caches\8.14.3\transforms\60c4b081ef58c38e1eb8ed4337c24fea\transformed\tracing-1.2.0\res
-com.telestream.player.test.app-core-1.7.0-1 C:\Users\Mohamed Bentaoit\.gradle\caches\8.14.3\transforms\cd3fe32ded0349e5248874dd9c049493\transformed\core-1.7.0\res
-com.telestream.player.test.app-androidTest-2 C:\Users\Mohamed Bentaoit\Desktop\Mohamed\Proyectos-Antigravity\TeleStreamPlayer\android\app\build\generated\res\resValues\androidTest\debug
-com.telestream.player.test.app-updated_navigation_xml-3 C:\Users\Mohamed Bentaoit\Desktop\Mohamed\Proyectos-Antigravity\TeleStreamPlayer\android\app\build\generated\updated_navigation_xml\debugAndroidTest
-com.telestream.player.test.app-mergeDebugAndroidTestResources-4 C:\Users\Mohamed Bentaoit\Desktop\Mohamed\Proyectos-Antigravity\TeleStreamPlayer\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.telestream.player.test.app-mergeDebugAndroidTestResources-5 C:\Users\Mohamed Bentaoit\Desktop\Mohamed\Proyectos-Antigravity\TeleStreamPlayer\android\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.telestream.player.test.app-debugAndroidTest-6 C:\Users\Mohamed Bentaoit\Desktop\Mohamed\Proyectos-Antigravity\TeleStreamPlayer\android\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
