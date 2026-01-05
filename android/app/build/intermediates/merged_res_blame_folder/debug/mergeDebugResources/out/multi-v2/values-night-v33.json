@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.telestream.player.app-mergeDebugResources-35:/values-night-v33/values-night-v33.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mohamed Bentaoit\\.gradle\\caches\\8.14.3\\transforms\\c5960b074ed892890a063831312e0f83\\transformed\\core-splashscreen-1.2.0\\res\\values-night-v33\\values-night-v33.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "215"
+                    }
+                }
+            ]
+        }
+    ]
+}

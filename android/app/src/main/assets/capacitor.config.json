@@ -1,0 +1,10 @@
+{
+	"appId": "com.telestream.player",
+	"appName": "TeleStreamPlayer",
+	"webDir": "dist",
+	"plugins": {
+		"CapacitorUpdater": {
+			"autoUpdate": true
+		}
+	}
+}
