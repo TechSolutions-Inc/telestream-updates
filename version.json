@@ -1,5 +1,5 @@
 {
-  "version": "0.0.26",
+  "version": "0.0.27",
   "url": "https://github.com/TechSolutions-Inc/telestream-updates/raw/main/dist.zip",
-  "note": "Update to v0.0.26: Smart search bar (never triggers keyboard on hover) & explicit 2-way chapter sort (Cap 1 Arriba / Cap 1 Abajo) with 100-batch fetch"
+  "note": "Update to v0.0.27: Complete control stability in Fullscreen, TV remote media keys, and Voice Assistant (speak with remote to pause, play, seek, fullscreen)"
 }
