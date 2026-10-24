@@ -1,5 +1,5 @@
 {
-  "version": "0.0.24",
+  "version": "0.0.26",
   "url": "https://github.com/TechSolutions-Inc/telestream-updates/raw/main/dist.zip",
-  "note": "Update to v0.0.24: Cinema Player Pro with jitter-free hover, SVG icons, seekbar hover tooltip, TV D-Pad focus & double-tap skip"
+  "note": "Update to v0.0.26: Smart search bar (never triggers keyboard on hover) & explicit 2-way chapter sort (Cap 1 Arriba / Cap 1 Abajo) with 100-batch fetch"
 }
