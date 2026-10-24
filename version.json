@@ -1,5 +1,5 @@
 {
-  "version": "0.0.28",
-  "url": "https://github.com/TechSolutions-Inc/telestream-updates/raw/main/dist.zip",
-  "note": "Update to v0.0.28: Fixed video streaming player (resolved handleSurfaceTap & SW controller ready) and added new 'Últimos Publicados' button for latest releases"
+  "version": "0.0.29",
+  "url": "https://raw.githubusercontent.com/TechSolutions-Inc/telestream-updates/main/dist.zip",
+  "checksum": "6dec22ae1fd9d2570016a8d267442ce0fa3ccbc9dfaa9667df747c6b8be2ca84"
 }
