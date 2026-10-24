@@ -1,5 +1,5 @@
 {
-  "version": "0.0.27",
+  "version": "0.0.28",
   "url": "https://github.com/TechSolutions-Inc/telestream-updates/raw/main/dist.zip",
-  "note": "Update to v0.0.27: Complete control stability in Fullscreen, TV remote media keys, and Voice Assistant (speak with remote to pause, play, seek, fullscreen)"
+  "note": "Update to v0.0.28: Fixed video streaming player (resolved handleSurfaceTap & SW controller ready) and added new 'Últimos Publicados' button for latest releases"
 }
