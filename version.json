@@ -1,5 +1,5 @@
 {
-  "version": "0.0.22",
+  "version": "0.0.24",
   "url": "https://github.com/TechSolutions-Inc/telestream-updates/raw/main/dist.zip",
-  "note": "Update to v0.0.22: Added Episode Publication Date (📅 fecha de publicación), Arabic series classifier & TV UI"
+  "note": "Update to v0.0.24: Cinema Player Pro with jitter-free hover, SVG icons, seekbar hover tooltip, TV D-Pad focus & double-tap skip"
 }
