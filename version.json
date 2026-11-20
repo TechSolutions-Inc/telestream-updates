@@ -1,6 +1,6 @@
 {
-  "version": "0.0.39",
+  "version": "0.0.40",
   "url": "https://raw.githubusercontent.com/TechSolutions-Inc/telestream-updates/main/dist.zip",
-  "checksum": "599db340284af278d7b433f1ecf9a7b06531e0b24c4d1808aae3841d41c5af19",
-  "note": "Update to v0.0.39: Add Telegram bot interactive TV support, keyboards and auto-refresh"
+  "checksum": "7e8493dc9e160c364c8d24d587a56e2c9875ea6d917636378a2fdedfdcdc5bbd",
+  "note": "Update to v0.0.40: Add Telegram bot interactive TV support, keyboards and auto-refresh"
 }
